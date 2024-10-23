@@ -6,76 +6,76 @@
   },
   "storyboards": [
     {
-      "scene_number": "1",
+      "sceneNumber": "1",
       "description": "In the flickering candlelight of a dimly lit room, Nathaniel Greene sits at a worn desk, his eyes scanning over maps and papers with intense focus. The room is adorned with symbols of the American Revolution, featuring a framed portrait of George Washington hanging on the wall. The air is thick with anticipation, suggesting a question that haunts every patriot's mind: 'Who among us can truly turn the tides of war?'",
       "subtitles": "Who among us can truly turn the tides of war?",
       "image": "/scene_1.png",
       "audio": "/audios/scene_1.mp3",
-      "transition_type": "zoom-out"
+      "effectType": "zoom-out"
     },
     {
-      "scene_number": "2",
+      "sceneNumber": "2",
       "description": "The camera zooms out to reveal Philadelphia in 1777—an energetic city teeming with life and conflict. Patriot soldiers march through cobblestone streets, their uniforms displaying the stripes and stars. Amid the bustle stands Nathaniel Greene, dressed in simple colonial attire, blending into the crowd yet carrying the serious demeanor of a man with a purpose.",
       "subtitles": "In the midst of the American Revolution, Nathaniel Greene, an astute young man with unwavering patriotism, dreams of liberating his country.",
       "image": "/scene_2.png",
       "audio": "/audios/scene_2.mp3",
-      "transition_type": "zoom-in"
+      "effectType": "zoom-in"
     },
     {
-      "scene_number": "3",
+      "sceneNumber": "3",
       "description": "Inside a secretive tavern, candle-lit shadows flicker across faces of men engaged in hushed conversations. Nathaniel sits among them, eyes keen and ears alert. His clothes are a nondescript brown, allowing him to blend into the background as he listens intently to whispered plans of espionage.",
       "subtitles": "Set against the vibrant yet tumultuous landscape of 1777 Philadelphia, Greene is thrust into a world of espionage.",
       "image": "/scene_3.png",
       "audio": "/audios/scene_3.mp3",
-      "transition_type": "zoom-out"
+      "effectType": "zoom-out"
     },
     {
-      "scene_number": "4",
+      "sceneNumber": "4",
       "description": "A close-up of Nathaniel's hand hovering tentatively over a British officer's uniform laid out on a table. His expression is grave, contemplating the weight of the task before him. The fabric is immaculate and intimidating, a symbol of the enemy he must outsmart.",
       "subtitles": "His conflict? To infiltrate British ranks without a trace.",
       "image": "/scene_4.png",
       "audio": "/audios/scene_4.mp3",
-      "transition_type": "zoom-in"
+      "effectType": "zoom-in"
     },
     {
-      "scene_number": "5",
+      "sceneNumber": "5",
       "description": "The scene expands to show Nathaniel, his breath visible in the chill night air, slipping through the shadows of a British encampment. His movement is cautious yet determined, his attire now replaced by the British uniform from earlier, allowing him to navigate the camp undetected.",
       "subtitles": "Enveloped in tension, Greene's journey teeters between fear and courage.",
       "image": "/scene_5.png",
       "audio": "/audios/scene_5.mp3",
-      "transition_type": "zoom-out"
+      "effectType": "zoom-out"
     },
     {
-      "scene_number": "6",
+      "sceneNumber": "6",
       "description": "Inside the grand command tent, Nathaniel studies maps and battle plans under the guise of a British officer. Candles flicker, casting an ominous glow that highlights his steely composure as he memorizes crucial details.",
       "subtitles": "As the plot thickens, he provides crucial intelligence that turns the tide at the Battle of Saratoga.",
       "image": "/scene_6.png",
       "audio": "/audios/scene_6.mp3",
-      "transition_type": "zoom-in"
+      "effectType": "zoom-in"
     },
     {
-      "scene_number": "7",
+      "sceneNumber": "7",
       "description": "The camera zooms out to show the aftermath of the Battle of Saratoga, with American soldiers celebrating their victory in the distance. Nathaniel stands apart, watching solemnly from the shadows, a quiet smile acknowledging his role in their success.",
       "subtitles": "By story's end, Greene emerges not just as a spy, but a silent hero,",
       "image": "/scene_7.png",
       "audio": "/audios/scene_7.mp3",
-      "transition_type": "zoom-out"
+      "effectType": "zoom-out"
     },
     {
-      "scene_number": "8",
+      "sceneNumber": "8",
       "description": "Nathaniel, now back in civilian clothing, walks through a bustling Philadelphia street. People cheer as news of the American victory spreads, yet he walks unnoticed, the unsung hero among them. His face reflects contentment and humility.",
       "subtitles": "his quiet resolve carving the path to freedom.",
       "image": "/scene_8.png",
       "audio": "/audios/scene_8.mp3",
-      "transition_type": "zoom-in"
+      "effectType": "zoom-in"
     },
     {
-      "scene_number": "9",
+      "sceneNumber": "9",
       "description": "The scene widens to show Nathaniel standing alone on a hill overlooking the city. The sun sets behind him, painting the sky with hues of orange and purple. His silhouette stands tall, a testament to his enduring spirit.",
       "subtitles": "His bravery subtly resonates with heartbeats of liberty, forever echoing in the annals of history.",
       "image": "/scene_9.png",
       "audio": "/audios/scene_9.mp3",
-      "transition_type": "zoom-out"
+      "effectType": "zoom-out"
     }
   ],
   "characters": [

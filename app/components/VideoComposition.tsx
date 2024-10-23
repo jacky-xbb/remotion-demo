@@ -8,7 +8,7 @@ interface Storyboard {
   subtitles: string;
   image: string;
   audio: string;
-  transition_type: string;
+  effectType: string;
 }
 
 interface VideoCompositionProps {
@@ -29,7 +29,7 @@ export const VideoComposition: React.FC<VideoCompositionProps> = ({
               subtitles={scene.subtitles}
               image={scene.image}
               audio={scene.audio}
-              transition_type={scene.transition_type as "zoom-in" | "zoom-out"}
+              effectType={scene.effectType as "zoom-in" | "zoom-out"}
               duration={sceneDurations[index]}
             />
           </Series.Sequence>
